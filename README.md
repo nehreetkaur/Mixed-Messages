@@ -1,7 +1,7 @@
 # ABOUT
 
 I have created this project which is called "MIXED-MESSAGES".
-I tried to make it **fun** by with ICE-CREAM.
+I tried to make it **fun**  with ICE-CREAM 
 There is an ice-cream object with different flavours array,
 toppings array and cone array. After running script.js on terminal
 user is presented with different flavour,topping and cone .
